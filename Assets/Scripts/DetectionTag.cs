@@ -1,4 +1,4 @@
-// Nom: [El teu nom] - Data: [Data]
+// Nom: [Lucas Torres] - Data: [28/10/2026]
 using UnityEngine;
 
 public class CoinDetector : MonoBehaviour
